@@ -1,7 +1,7 @@
 # Puerto Aventura🚢⚓
 
 
-***Pagina web diseñada para el curso de Ingeniería de Software 2 - UNLP - 2024, que permite a los puertos de la provincia de Buenos Aires, intercambiar las embarcaciones abandonadas por cualquier otro vehiculo***
+***Pagina web diseñada para la materia de Ingeniería de Software 2 de la Universidad Nacional de La Plata en 2024, que permite a los puertos de la provincia de Buenos Aires, intercambiar las embarcaciones abandonadas por cualquier otro vehiculo.***
 
 ## Requisitos Previos
 
